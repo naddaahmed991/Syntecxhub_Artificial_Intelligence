@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/499db314-7234-42af-815a-0f8a5f94d14c" /># Syntecxhub_Artificial_Intelligence
 Artificial Intelligence Internship - Week 1 Tasks: Maze Solver using A* Search Algorithm &amp; Rule-Based Expert System (Forward Chaining).
 # Syntecxhub Artificial Intelligence Internship - Week 1
 
